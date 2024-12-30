@@ -168,3 +168,7 @@ Ahora crea un almacén de claves y almacena la clave privada. Ten en cuenta que 
 <img width="388" alt="43" src="https://github.com/user-attachments/assets/f014ca85-176c-45eb-a1dc-6599c5387f4e" />
 
 5.  Revise el análisis de costos para identificar tendencias y optimizar el gasto. Revise las recomendaciones del asesor para ver las recomendaciones de costos.
+
+## Limpia tus recursos
+
+Si está trabajando con **su propia suscripción**, tómese un minuto para eliminar los recursos del laboratorio. Esto garantizará que se liberen recursos y se minimicen los costos. La manera más sencilla de eliminar los recursos de laboratorio es eliminar el grupo de recursos de laboratorio. 
